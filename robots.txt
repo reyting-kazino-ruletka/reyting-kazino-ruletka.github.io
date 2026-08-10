@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-ruletka.github.io
+Sitemap: https://reyting-kazino-ruletka.github.io/sitemap.xml
